@@ -1,0 +1,10 @@
+{
+    "/personnes/*": {
+      "target": "http://localhost:8082",
+      "secure": false
+    },
+    "/departements/*": {
+        "target": "http://localhost:8082",
+        "secure": false
+      }
+}
